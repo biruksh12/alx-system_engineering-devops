@@ -1,2 +1,2 @@
-#!/biin/bash
-chown -hR vincent:staff .o
+#!/bin/bash
+chgrp school hello
